@@ -162,6 +162,12 @@
             "name": "hedgehog-tokyo",
             "prefix": "242",
             "mantela": "https://rainyvillage.jp/mantela/mantela.json"
+        },
+        {
+            "identifier": "859c4016-624e-495f-86b4-ca0beb2e7c62",
+            "name": "yamaserifphones",
+            "prefix": "418",
+            "mantela": "https://yamaserif.com/phone/mantela.json"
         }
     ]
 }
