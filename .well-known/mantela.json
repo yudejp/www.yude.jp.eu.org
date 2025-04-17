@@ -168,6 +168,18 @@
             "name": "yamaserifphones",
             "prefix": "418",
             "mantela": "https://yamaserif.com/phone/mantela.json"
+        },
+        {
+            "identifier": "8b741e2b-45f9-4187-9da1-05d866b79a09",
+            "name": "kimkim0106",
+            "prefix": "106",
+            "mantela": "https://kimkim0106.net/.well-known/mantela.json"
+        },
+        {
+            "identifier": "db30e15e-b101-4069-a406-9af3fdfe5c2e",
+            "name": "yoshina",
+            "prefix": "447",
+            "mantela": "https://yosh1na-hub.github.io/Mantela/Mantela.yoshina.json"
         }
     ]
 }
