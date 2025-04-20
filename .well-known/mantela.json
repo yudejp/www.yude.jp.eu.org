@@ -29,7 +29,7 @@
         },
         {
             "extension": "101",
-            "name": "windows",
+            "name": "omron",
             "type": "fax",
             "model": "OMRON SOCIAL SOLUTIONS CO., LTD. ME5614U2; YAMAHA CORPORATION RT58i",
             "identifier": "Y2MEE6Y8"
