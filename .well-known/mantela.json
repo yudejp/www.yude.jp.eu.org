@@ -180,6 +180,12 @@
             "name": "yoshina",
             "prefix": "447",
             "mantela": "https://yosh1na-hub.github.io/Mantela/Mantela.yoshina.json"
+        },
+        {
+            "identifier": "b2b242ff-826f-78a4-4315-c1d0573311de",
+            "name": "kaiware",
+            "prefix": "308",
+            "mantela": "https://kaiware9011.github.io/mantela/KaiwareMantela.json"
         }
     ]
 }
