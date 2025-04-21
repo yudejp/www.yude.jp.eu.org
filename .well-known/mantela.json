@@ -183,9 +183,15 @@
         },
         {
             "identifier": "b2b242ff-826f-78a4-4315-c1d0573311de",
-            "name": "kaiware",
+            "name": "kaiwaretel",
             "prefix": "308",
             "mantela": "https://kaiware9011.github.io/mantela/KaiwareMantela.json"
+        },
+        {
+            "identifier": "edbb2bb2-fa28-11ef-8cbc-6f97f0d24f36",
+            "name": "scrwnlnet",
+            "prefix": "782",
+            "mantela": "https://www.scrwnl.eu.org/.well-known/mantela.json"
         }
     ]
 }
