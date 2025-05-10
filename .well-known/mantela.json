@@ -24,14 +24,14 @@
             "extension": "100",
             "name": "600a2",
             "type": "dialphone",
-            "model": "Nippon Telegraph and Telephone Public Corporation 600-A2; YAMAHA CORPORATION RT58i",
+            "model": "OMRON SOCIAL SOLUTIONS CO., LTD. ME5614U2, Nippon Telegraph and Telephone Public Corporation 600-A2; YAMAHA CORPORATION RT58i",
             "identifier": "3XZLAP3A"
         },
         {
             "extension": "101",
-            "name": "omron",
+            "name": "teltty",
             "type": "modem",
-            "model": "OMRON SOCIAL SOLUTIONS CO., LTD. ME5614U2; YAMAHA CORPORATION RT58i",
+            "model": "OMRON SOCIAL SOLUTIONS CO., LTD. ME1414B2; YAMAHA CORPORATION RT58i",
             "identifier": "Y2MEE6Y8"
         },
         {
@@ -40,13 +40,6 @@
             "type": "phone",
             "model": "Apple Inc. MacBook Air (M4, 2025)",
             "identifier": "QON2AYKE"
-        },
-        {
-            "extension": "105",
-            "name": "tty",
-            "type": "modem",
-            "model": "OMRON SOCIAL SOLUTIONS CO., LTD. ME1414B2; YAMAHA CORPORATION RT56v",
-            "identifier": "868X05X5"
         },
         {
             "extension": "200",
