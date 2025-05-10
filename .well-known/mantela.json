@@ -29,7 +29,7 @@
         },
         {
             "extension": "101",
-            "name": "teltty",
+            "name": "tty1",
             "type": "modem",
             "model": "OMRON SOCIAL SOLUTIONS CO., LTD. ME1414B2; YAMAHA CORPORATION RT58i",
             "identifier": "Y2MEE6Y8"
@@ -40,6 +40,13 @@
             "type": "phone",
             "model": "Apple Inc. MacBook Air (M4, 2025)",
             "identifier": "QON2AYKE"
+        },
+        {
+            "extension": "105",
+            "name": "tty2",
+            "type": "modem",
+            "model": "OMRON SOCIAL SOLUTIONS CO., LTD. ME1414B2; YAMAHA CORPORATION RT56v",
+            "identifier": "Y2MEE7Y8"
         },
         {
             "extension": "200",
