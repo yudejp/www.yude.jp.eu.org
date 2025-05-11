@@ -12,7 +12,7 @@
     "extensions": [
         {
             "name": "main",
-            "extension": "200",
+            "extension": "390",
             "type": "main",
             "identifier": "1F73OPXZ",
             "transferTo": [
@@ -22,7 +22,7 @@
         },
         {
             "name": "tty",
-            "extension": "201",
+            "extension": "200",
             "type": "main",
             "identifier": "3CU0NXES",
             "transferTo": [
