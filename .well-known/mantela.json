@@ -5,7 +5,10 @@
         "identifier": "3be47f94-3185-4198-ac3d-ca5ccb573cc2",
         "name": "yude",
         "preferredPrefix": [ "390", "3900" ],
-        "sipServer": "yudepbx.tail5b1c5.ts.net"
+        "sipUri": [
+            "sip:yudepbx.tail5b1c5.ts.net:5060;transport=udp",
+            "sip:yudepbx.tail5b1c5.ts.net:5060;transport=tcp"
+        ]
     },
     "extensions": [
         {
