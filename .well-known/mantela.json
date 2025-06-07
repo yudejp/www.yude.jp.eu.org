@@ -218,6 +218,12 @@
             "name": "scrwnlnet",
             "prefix": "782",
             "mantela": "https://www.scrwnl.eu.org/.well-known/mantela.json"
+        },
+        {
+            "identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
+            "name": "da-tenshi",
+            "prefix": "661",
+            "mantela": "https://da-tenshi.github.io/mantela.json"
         }
     ]
 }
