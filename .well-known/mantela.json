@@ -242,6 +242,18 @@
 			"name": "yanknvim",
 			"prefix": "334",
 			"mantela": ""
+		},
+		{
+			"identifier": "376299fd-2ab2-4848-aa2c-18aea6f5abef",
+			"name": "kur0den",
+			"prefix": "961",
+			"mantela": "https://www.kur0den.net/.well-known/mantela.json"
+		},
+		{
+			"identifier": "008902ee-6102-48b9-8e70-49d27058ad7e",
+			"name": "barisawa",
+			"prefix": "486",
+			"mantela": "https://junks.dev/.well-known/mantela.json"
 		}
 	]
 }
