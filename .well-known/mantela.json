@@ -8,7 +8,14 @@
 		"sipUri": [
 			"sip:yudepbx.tail5b1c5.ts.net:5060;transport=udp",
 			"sip:yudepbx.tail5b1c5.ts.net:5060;transport=tcp"
-		]
+		],
+		"geolocationCoordinates": {
+			"latitude": 35.6045556,
+			"longitude": 140.1231389,
+			"altitude": null,
+			"accuracy": 25000,
+			"altitudeAccuracy": null
+		}
 	},
 	"extensions": [
 		{
@@ -37,28 +44,32 @@
 			"name": "600a2",
 			"type": "dialphone",
 			"model": "Nippon Telegraph and Telephone Public Corporation 600-A2; YAMAHA CORPORATION RT58i",
-			"identifier": "3XZLAP3A"
+			"identifier": "3XZLAP3A",
+			"image": "https://www.yude.jp.eu.org/.well-known/images/3XZLAP3A.jpeg"
 		},
 		{
 			"extension": "101",
 			"name": "tty1",
 			"type": "modem",
 			"model": "OMRON SOCIAL SOLUTIONS CO., LTD. ME1414B2; YAMAHA CORPORATION RT58i",
-			"identifier": "Y2MEE6Y8"
+			"identifier": "Y2MEE6Y8",
+			"image": "https://www.yude.jp.eu.org/.well-known/images/Y2MEE6Y8.jpeg"
 		},
 		{
 			"extension": "102",
 			"name": "mac",
 			"type": "phone",
 			"model": "Apple Inc. MacBook Air (M4, 2025)",
-			"identifier": "QON2AYKE"
+			"identifier": "QON2AYKE",
+			"image": "https://www.yude.jp.eu.org/.well-known/images/QON2AYKE.jpeg"
 		},
 		{
 			"extension": "103",
 			"name": "tty2",
 			"type": "modem",
 			"model": "OMRON SOCIAL SOLUTIONS CO., LTD. ME1414B2; YAMAHA CORPORATION RT56v",
-			"identifier": "Y2MEE7Y8"
+			"identifier": "Y2MEE7Y8",
+			"image": "https://www.yude.jp.eu.org/.well-known/images/Y2MEE7Y8.jpeg"
 		},
 		{
 			"extension": "300",
