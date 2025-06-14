@@ -258,6 +258,12 @@
 			"name": "barisawa",
 			"prefix": "486",
 			"mantela": "https://junks.dev/.well-known/mantela.json"
+		},
+		{
+			"identifier": "8ad8afa6-11a8-4e61-b28d-343393f3d4d4",
+			"name": "noritel",
+			"prefix": "989",
+			"mantela": "https://ajinori256.com/.well-known/mantela.json"
 		}
 	]
 }
