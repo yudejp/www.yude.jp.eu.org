@@ -82,7 +82,8 @@
 			"extension": "301",
 			"name": "Fax (Receive only)",
 			"type": "fax",
-			"identifier": "9WB4OB8J"
+			"identifier": "9WB4OB8J",
+			"image": "https://www.yude.jp.eu.org/.well-known/images/9WB4OB8J.jpeg"
 		},
 		{
 			"extension": "302",
@@ -100,7 +101,8 @@
 			"extension": "304",
 			"name": "Random music",
 			"type": "music",
-			"identifier": "TMKVWWG5"
+			"identifier": "TMKVWWG5",
+			"image": "https://www.yude.jp.eu.org/.well-known/images/TMKVWWG5.jpeg"
 		},
 		{
 			"extension": "305",
