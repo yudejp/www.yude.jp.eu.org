@@ -34,13 +34,6 @@
 		},
 		{
 			"extension": "100",
-			"name": "me5614u2",
-			"type": "modem",
-			"model": "OMRON SOCIAL SOLUTIONS CO., LTD. ME5614U2, YAMAHA CORPORATION RT58i",
-			"identifier": "3XZLAP3B"
-		},
-		{
-			"extension": "100",
 			"name": "600a2",
 			"type": "dialphone",
 			"model": "Nippon Telegraph and Telephone Public Corporation 600-A2; YAMAHA CORPORATION RT58i",
