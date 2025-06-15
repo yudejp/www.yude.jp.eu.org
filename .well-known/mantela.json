@@ -268,6 +268,12 @@
 			"name": "noritel",
 			"prefix": "989",
 			"mantela": "https://ajinori256.com/.well-known/mantela.json"
+		},
+		{
+			"identifier": "906286ae-3639-453f-b500-44a910445968",
+			"name": "sirin",
+			"prefix": "444",
+			"mantela": "https://raw.githubusercontent.com/sirin-interact/.well-known/refs/heads/main/mantela.json"
 		}
 	]
 }
