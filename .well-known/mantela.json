@@ -274,6 +274,12 @@
 			"name": "sirin",
 			"prefix": "101",
 			"mantela": "https://raw.githubusercontent.com/sirin-interact/.well-known/refs/heads/main/mantela.json"
+		},
+		{
+			"identifier": "66b340f4-de88-4ab4-9ac3-21a9a06bb012",
+			"name": "rei_k",
+			"prefix": "224",
+			"mantela": "https://sousuke0422.github.io/.well-known/mantela.json"
 		}
 	]
 }
