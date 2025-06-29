@@ -20,27 +20,6 @@
 	},
 	"extensions": [
 		{
-			"name": "main",
-			"extension": "390",
-			"type": "main",
-			"identifier": "1F73OPXZ",
-			"transferTo": [
-				"3XZLAP3A",
-				"QON2AYKE",
-				"3XZLAP3B"
-			]
-		},
-		{
-			"name": "tty",
-			"extension": "200",
-			"type": "main",
-			"identifier": "3CU0NXES",
-			"transferTo": [
-				"Y2MEE6Y8",
-				"Y2MEE7Y8"
-			]
-		},
-		{
 			"extension": "100",
 			"name": "600a2",
 			"type": "dialphone",
