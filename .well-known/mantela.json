@@ -6,8 +6,8 @@
 		"name": "yudetel",
 		"preferredPrefix": [ "390", "3900" ],
 		"sipUri": [
-			"sip:yudepbx.tail5b1c5.ts.net:5060;transport=udp",
-			"sip:yudepbx.tail5b1c5.ts.net:5060;transport=tcp"
+			"sip:yudetel.tail5b1c5.ts.net:5060;transport=udp",
+			"sip:yudetel.tail5b1c5.ts.net:5060;transport=tcp"
 		],
 		"geolocationCoordinates": {
 			"latitude": 35.6045556,
