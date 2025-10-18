@@ -1,0 +1,24 @@
+---
+import {Content as HeaderContent} from '../pages/header.md';
+---
+
+<html lang="ja">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>yude.jp.eu.org</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/light.css">
+        <style>
+            body {
+                max-width: 42rem;
+                margin-inline: auto;
+            }
+        </style>
+	</head>
+	<body>
+        <HeaderContent />
+		<slot />
+	</body>
+</html>

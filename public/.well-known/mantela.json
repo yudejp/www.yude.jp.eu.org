@@ -1,0 +1,294 @@
+{
+	"$schema": "https://tkytel.github.io/mantela/mantela.schema.json",
+	"version": "0.1.0",
+	"aboutMe": {
+		"identifier": "3be47f94-3185-4198-ac3d-ca5ccb573cc2",
+		"name": "yudetel",
+		"preferredPrefix": [ "390", "3900" ],
+		"sipUri": [
+			"sip:yudetel.tail5b1c5.ts.net:5060;transport=udp",
+			"sip:yudetel.tail5b1c5.ts.net:5060;transport=tcp"
+		],
+		"geolocationCoordinates": {
+			"latitude": 35.6045556,
+			"longitude": 140.1231389,
+			"altitude": null,
+			"accuracy": 25000,
+			"altitudeAccuracy": null
+		},
+		"image": "https://www.yude.jp.eu.org/.well-known/images/3be47f94-3185-4198-ac3d-ca5ccb573cc2.jpeg"
+	},
+	"extensions": [
+		{
+			"extension": "100",
+			"name": "600a2",
+			"type": "dialphone",
+			"model": "Nippon Telegraph and Telephone Public Corporation 600-A2; YAMAHA CORPORATION RT58i",
+			"identifier": "3XZLAP3A",
+			"image": "https://www.yude.jp.eu.org/.well-known/images/3XZLAP3A.jpeg"
+		},
+		{
+			"extension": "101",
+			"name": "me5614u2",
+			"type": "modem",
+			"model": "OMRON SOCIAL SOLUTIONS CO., LTD. ME5614U2; YAMAHA CORPORATION RT58i",
+			"identifier": "Y2MEE6Y8",
+			"image": "https://www.yude.jp.eu.org/.well-known/images/Y2MEE6Y8.jpeg"
+		},
+		{
+			"extension": "102",
+			"name": "m4",
+			"type": "phone",
+			"model": "Apple Inc. MacBook Air (M4, 2025)",
+			"identifier": "QON2AYKE",
+			"image": "https://www.yude.jp.eu.org/.well-known/images/QON2AYKE.jpeg"
+		},
+		{
+			"extension": "103",
+			"name": "me1414b2",
+			"type": "modem",
+			"model": "OMRON SOCIAL SOLUTIONS CO., LTD. ME1414B2; YAMAHA CORPORATION RT56v",
+			"identifier": "Y2MEE7Y8",
+			"image": "https://www.yude.jp.eu.org/.well-known/images/Y2MEE7Y8.jpeg"
+		},
+		{
+			"extension": "300",
+			"name": "Echo-back service",
+			"type": "music",
+			"identifier": "ZF40LWQH"
+		},
+		{
+			"extension": "301",
+			"name": "Fax (Receive only)",
+			"type": "fax",
+			"identifier": "9WB4OB8J",
+			"image": "https://www.yude.jp.eu.org/.well-known/images/9WB4OB8J.jpg"
+		},
+		{
+			"extension": "302",
+			"name": "Reads back your extension",
+			"type": "information",
+			"identifier": "M7UZT4MG"
+		},
+		{
+			"extension": "303",
+			"name": "Constant 1000 Hz tone",
+			"type": "music",
+			"identifier": "S3NXM7Y6"
+		},
+		{
+			"extension": "304",
+			"name": "Random music",
+			"type": "music",
+			"identifier": "TMKVWWG5",
+			"image": "https://www.yude.jp.eu.org/.well-known/images/TMKVWWG5.jpeg"
+		},
+		{
+			"extension": "305",
+			"name": "Clock",
+			"type": "information",
+			"identifier": "0R7J61UW",
+			"image": "https://www.yude.jp.eu.org/.well-known/images/0R7J61UW.jpeg"
+		},
+		{
+			"extension": "600",
+			"name": "Conference room",
+			"type": "other",
+			"identifier": "CC3QOT90"
+		}
+	],
+	"providers": [
+		{
+			"identifier": "3be47f94-3185-4198-ac3d-ca5ccb573cc2",
+			"mantela": "https://www.yude.jp.eu.org/.well-known/mantela.json",
+			"name": "yude",
+			"prefix": "0"
+		},
+		{
+			"identifier": "5bbdd9ae-4d41-420c-80df-eba486495b12",
+			"mantela": "https://108jiminy.jp/phone/jiminypublicmantela.json",
+			"name": "jiminypublic",
+			"prefix": "108"
+		},
+		{
+			"identifier": "153048c5-db33-4e00-ad49-694762555d5c",
+			"name": "jiminylocal",
+			"prefix": "218",
+			"mantela": "https://108jiminy.jp/phone/jiminylocalmantela.json"
+		},
+		{
+			"identifier": "93b2d256-39c1-4053-bda1-c0643dd40690",
+			"name": "mknetel",
+			"prefix": "510",
+			"mantela": "https://unstable.kusaremkn.com/.well-known/mantela.json"
+		},
+		{
+			"identifier": "497F92E7-6B9F-4D33-91B9-B34E94402913",
+			"name": "sasakulab",
+			"prefix": "530",
+			"mantela": "https://sasakulab.com/.well-known/mantela.json"
+		},
+		{
+			"identifier": "f5c44210-8cb8-4e87-85a7-df3d3ff951e6",
+			"name": "pepepper",
+			"prefix": "617",
+			"mantela": "https://www.pepepper.net/.well-known/mantela.json"
+		},
+		{
+			"identifier": "bfd57259-4c74-48ce-b1b3-7e816808bf27",
+			"name": "puhitaku",
+			"prefix": "428",
+			"mantela": ""
+		},
+		{
+			"identifier": "81c99427-4a30-4364-8b17-fed97f347439",
+			"name": "sgch",
+			"prefix": "248",
+			"mantela": "https://sgchsgch.net/.well-known/mantela.json"
+		},
+		{
+			"identifier": "91c5f34f-c178-4cfe-a488-be6ed00fac3b",
+			"name": "hieri",
+			"prefix": "890",
+			"mantela": "https://hieri1021.github.io/.well-known/mantela.json"
+		},
+		{
+			"identifier": "XXX:qqey",
+			"name": "qqey",
+			"prefix": "330",
+			"mantela": ""
+		},
+		{
+			"identifier": "46fb2dc7-ee07-435d-9a27-0a7b4d43d3d7",
+			"name": "mcetelo",
+			"prefix": "315",
+			"mantela": "https://meishicafei.github.io/.well-known/mantela.json"
+		},
+		{
+			"identifier": "24e24ec4-746a-4736-920d-47a725201154",
+			"name": "macaron",
+			"prefix": "798",
+			"mantela": "https://telephony.jm8krg.net/.well-known/mantela.json"
+		},
+		{
+			"identifier": "47abe85d-fe09-691d-f928-4f75b27a157f",
+			"name": "hedgehog-tokyo",
+			"prefix": "242",
+			"mantela": "https://toybox.rainyvillage.jp/mantela/mantela.json"
+		},
+		{
+			"identifier": "859c4016-624e-495f-86b4-ca0beb2e7c62",
+			"name": "yamaserifphones",
+			"prefix": "418",
+			"mantela": "https://yamaserif.com/phone/mantela.json"
+		},
+		{
+			"identifier": "8b741e2b-45f9-4187-9da1-05d866b79a09",
+			"name": "kimkim0106",
+			"prefix": "106",
+			"mantela": "https://kimkim0106.net/.well-known/mantela.json"
+		},
+		{
+			"identifier": "db30e15e-b101-4069-a406-9af3fdfe5c2e",
+			"name": "yoshina",
+			"prefix": "447",
+			"mantela": "https://yosh1na-hub.github.io/Mantela/Mantela.yoshina.json"
+		},
+		{
+			"identifier": "b2b242ff-826f-78a4-4315-c1d0573311de",
+			"name": "kaiwaretel",
+			"prefix": "308",
+			"mantela": "https://kaiware9011.github.io/mantela/KaiwareMantela.json"
+		},
+		{
+			"identifier": "edbb2bb2-fa28-11ef-8cbc-6f97f0d24f36",
+			"name": "scrwnlnet",
+			"prefix": "782",
+			"mantela": "https://www.scrwnl.eu.org/.well-known/mantela.json"
+		},
+		{
+			"identifier": "5752ca4c-c828-4946-a8f3-7f8272206f2d",
+			"name": "da-tenshi",
+			"prefix": "661",
+			"mantela": "https://da-tenshi.github.io/mantela.json"
+		},
+		{
+			"identifier": "8400cd7b-9f20-4d1a-8e2e-fa278b245316",
+			"name": "scura",
+			"prefix": "862",
+			"mantela": "https://scuravr.github.io/.well-known/mantela.json"
+		},
+		{
+			"identifier": "4a96b422-c07e-7b84-82aa-cd665e1e69a8",
+			"name": "8yazaki",
+			"prefix": "808",
+			"mantela": "https://8yazaki.github.io/mantela/mantela.json"
+		},
+		{
+			"identifier": "XXX:yank.nvim",
+			"name": "yanknvim",
+			"prefix": "334",
+			"mantela": ""
+		},
+		{
+			"identifier": "376299fd-2ab2-4848-aa2c-18aea6f5abef",
+			"name": "kur0den",
+			"prefix": "961",
+			"mantela": "https://www.kur0den.net/.well-known/mantela.json"
+		},
+		{
+			"identifier": "008902ee-6102-48b9-8e70-49d27058ad7e",
+			"name": "barisawa",
+			"prefix": "486",
+			"mantela": "https://junks.dev/.well-known/mantela.json"
+		},
+		{
+			"identifier": "8ad8afa6-11a8-4e61-b28d-343393f3d4d4",
+			"name": "noritel",
+			"prefix": "989",
+			"mantela": "https://ajinori256.com/.well-known/mantela.json"
+		},
+		{
+			"identifier": "906286ae-3639-453f-b500-44a910445968",
+			"name": "sirin",
+			"prefix": "101",
+			"mantela": "https://raw.githubusercontent.com/sirin-interact/.well-known/refs/heads/main/mantela.json"
+		},
+		{
+			"identifier": "66b340f4-de88-4ab4-9ac3-21a9a06bb012",
+			"name": "rei_k",
+			"prefix": "224",
+			"mantela": "https://sousuke0422.github.io/.well-known/mantela.json"
+		},
+		{
+			"identifier": "9e40b39a-2964-4868-af71-ebe8e71615eb",
+			"name": "YuriConoHa",
+			"prefix": "832",
+			"mantela": "https://yuriko.co.nz/.well-known/mantela.json"
+		},
+		{
+			"identifier": "530251dc-0f93-4226-89c8-d71f900a1f0b",
+			"name": "Xeronon",
+			"prefix": "831",
+			"mantela": "http://tkytel-8931.f5.si/.well-known/mantela.json"
+		},
+		{
+			"identifier": "498a3211-0f85-42a7-b2c0-44fb7095bd67",
+			"name": "zin3",
+			"prefix": "333",
+			"mantela": "https://zin3.cc/.well-known/mantela.json"
+		},
+		{
+			"identifier": "41aca3d1-6882-4e4d-9651-5e52464902e7",
+			"name": "halka",
+			"prefix": "767",
+			"mantela": "https://halka.jp/.well-known/mantela.json"
+		},
+		{
+			"identifier": "f040d6dc-7019-21a9-3af2-c8427aa9e9b9",
+			"name": "eggplants",
+			"prefix": "810",
+			"mantela": "https://egpl.dev/.well-known/mantela.json"
+		}
+	]
+}
