@@ -1,6 +1,6 @@
 # [yude.jp.eu.org](/)
 
-不安定って、恋みたいね。
+<ruby>不安定って、恋みたいね。<rp>（</rp><rt>Loves only you</rt><rp>）</rp></ruby>
 
 - [サービス](/svc)
 - [オーバーレイネットワーク](/overlay)
