@@ -213,12 +213,6 @@
 			"mantela": "https://da-tenshi.github.io/mantela.json"
 		},
 		{
-			"identifier": "8400cd7b-9f20-4d1a-8e2e-fa278b245316",
-			"name": "scura",
-			"prefix": "862",
-			"mantela": "https://scuravr.github.io/.well-known/mantela.json"
-		},
-		{
 			"identifier": "4a96b422-c07e-7b84-82aa-cd665e1e69a8",
 			"name": "8yazaki",
 			"prefix": "808",

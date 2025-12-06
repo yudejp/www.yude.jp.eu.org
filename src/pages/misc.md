@@ -12,4 +12,4 @@ layout: ../layout/Layout.astro
 - [gyutto-face](https://gyutto-face.vercel.app)  
 - [stomach-breaker](https://stomach-breaker.vercel.app)  
 - [junrenka-randomizer](https://junrenka-randomizer.vercel.app)  
-- [books](https://yude.github.io/books/)  
+- [books](https://yude.github.io/books/)
