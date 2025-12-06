@@ -12,7 +12,7 @@ layout: ../layout/Layout.astro
 | bway.yude.jp | hnd1 (Tokyo, Japan) | yude <i@yude.jp> | hnd1gw1.ops.yude.jp |
 | whale.yude.jp | hnd1 (Tokyo, Japan) | yude <i@yude.jp> | hnd1gw1.ops.yude.jp |
 | dune.yude.jp | ttj1 (Tottori, Japan) | yude <i@yude.jp> | ttj1gw1.ops.yude.jp |
-| hitachi.yude.jp | ibr1 (Ibaraki, Japan) | 百谷涼花 <i@pepepper.net> | ibr1gw1.ops.yude.jp |
+| beer.yude.jp | ibr1 (Ibaraki, Japan) | 百谷涼花 <i@pepepper.net> | ibr1gw1.ops.yude.jp |
 | ruby.yude.jp | mte1 (Shimane, Japan) | KusaReMKN <mkn@kusaremkn.com> | gateway.local.kusaremkn.com |
 | shrimp.yude.jp | toy1 (Toyama, Japan) | もやしくん <moyashim-25.com> | - |
 | katsu.yude.jp | hnd2 (Tokyo, Japan) | はやぶさ <i@h4y4bus4.com> | - |
