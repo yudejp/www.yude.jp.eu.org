@@ -135,12 +135,6 @@
 			"mantela": "https://www.pepepper.net/.well-known/mantela.json"
 		},
 		{
-			"identifier": "bfd57259-4c74-48ce-b1b3-7e816808bf27",
-			"name": "puhitaku",
-			"prefix": "428",
-			"mantela": ""
-		},
-		{
 			"identifier": "81c99427-4a30-4364-8b17-fed97f347439",
 			"name": "sgch",
 			"prefix": "248",
@@ -151,12 +145,6 @@
 			"name": "hieri",
 			"prefix": "890",
 			"mantela": "https://hieri1021.github.io/.well-known/mantela.json"
-		},
-		{
-			"identifier": "XXX:qqey",
-			"name": "qqey",
-			"prefix": "330",
-			"mantela": ""
 		},
 		{
 			"identifier": "46fb2dc7-ee07-435d-9a27-0a7b4d43d3d7",
@@ -219,12 +207,6 @@
 			"mantela": "https://8yazaki.github.io/mantela/mantela.json"
 		},
 		{
-			"identifier": "XXX:yank.nvim",
-			"name": "yanknvim",
-			"prefix": "334",
-			"mantela": ""
-		},
-		{
 			"identifier": "376299fd-2ab2-4848-aa2c-18aea6f5abef",
 			"name": "kur0den",
 			"prefix": "961",
@@ -259,12 +241,6 @@
 			"name": "YuriConoHa",
 			"prefix": "832",
 			"mantela": "https://yuriko.co.nz/.well-known/mantela.json"
-		},
-		{
-			"identifier": "530251dc-0f93-4226-89c8-d71f900a1f0b",
-			"name": "Xeronon",
-			"prefix": "831",
-			"mantela": "http://tkytel-8931.f5.si/.well-known/mantela.json"
 		},
 		{
 			"identifier": "498a3211-0f85-42a7-b2c0-44fb7095bd67",
