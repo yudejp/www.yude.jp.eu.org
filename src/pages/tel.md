@@ -20,14 +20,15 @@ layout: ../layout/Layout.astro
 
 | 番号 | 名前 | ハードウェア | 収容 VoIP ルータ |
 | - | - | - | - |
-| 100 | 600a2 (3XZLAP3A) | 日本電信電話公社 600-A2 | nrt1vo1.ops.yude.jp |
-| 101 | me5614u2 (Y2MEE6Y8) | OMRON ME5614U2 | nrt1vo1.ops.yude.jp |
-| 103 | me1414b2 (Y2MEE7Y8) | OMRON ME1414B2 | nrt1vo2.ops.yude.jp |
+| 6002 | 600a2 (3XZLAP3A) | 日本電信電話公社 600-A2 | nrt1vo1.tun.y2e.org |
+| 5614 | me5614u2 (Y2MEE6Y8) | OMRON ME5614U2 | nrt1vo1.tun.y2e.org |
+| 1414 | me1414b2 (Y2MEE7Y8) | OMRON ME1414B2 | nrt1vo2.tun.y2e.org |
+| 6404 | m4 | Apple MacBook Air (M4, 2025) | - |
 
 ### VoIP ルータ
 
 | ホスト名 | ハードウェア |
 | - | - |
-| nrt1vo1.ops.yude.jp | YAMAHA RT58i |
-| nrt1vo2.ops.yude.jp | YAMAHA RT57i |
-| ttj1vo1.ops.yude.jp | YAMAHA RT56v |
+| nrt1vo1.tun.y2e.org | YAMAHA RT58i |
+| nrt1vo2.tun.y2e.org | YAMAHA RT57i |
+| ttj1vo1.tun.y2e.org | YAMAHA RT56v |
