@@ -20,6 +20,16 @@
   },
   "extensions": [
     {
+      "extension": "3900",
+      "name": "main",
+			"type": "main",
+			"identifier": "U72KGWAU",
+			"transferTo": [
+				"3XZLAP3A",
+				"QON2AYKE"
+			]
+		},
+    {
       "extension": "6002",
       "name": "600a2",
       "type": "dialphone",
