@@ -13,3 +13,4 @@ layout: ../layout/Layout.astro
 - [stomach-breaker](https://stomach-breaker.vercel.app)  
 - [junrenka-randomizer](https://junrenka-randomizer.vercel.app)  
 - [books](https://yude.github.io/books/)
+- [spotinow.yude.jp.eu.org](https://spotinow.yude.jp.eu.org)
