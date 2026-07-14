@@ -4,7 +4,6 @@ layout: ../layout/Layout.astro
 
 ## 有象無象
 
-- [yude.moe](https://yude.moe)  
 - [yude.static.jp](https://yude.static.jp)  
 - [yude.github.io](https://yude.github.io)  
 - [weird-pronounciation](https://weird-pronounciation.vercel.app)  
