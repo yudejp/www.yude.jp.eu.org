@@ -10,7 +10,7 @@ layout: ../layout/Layout.astro
 
 - 推奨されるプレフィックス: `390`
 - 設置場所: nrt1
-- ソフトウェア: MIKO LLC [MikoPBX](https://github.com/yude/pbx)
+- ソフトウェア: [Asterisk](https://www.asterisk.org/)
 - Mantela: https://www.yude.jp.eu.org/.well-known/mantela.json
     - YUDETEL 電話の最新のピアリング状況は [Mantela](github.com/tkytel/mantela) 技術によって配布されており、[Mantela Viewer](https://tkytel.github.io/mantela-viewer/?first=https://www.yude.jp.eu.org/.well-known/mantela.json) を利用して可視化できます。
 
