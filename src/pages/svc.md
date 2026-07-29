@@ -16,5 +16,7 @@ layout: ../layout/Layout.astro
 - [kroki.yude.jp.eu.org](https://kroki.yude.jp.eu.org)
 - [spotiny.yude.jp.eu.org](https://spotiny.yude.jp.eu.org)
 - [groffer.yude.jp.eu.org](https://groffer.yude.jp.eu.org)
+- [keikenchi-map.yude.jp.eu.org](https://keikenchi-map.yude.jp.eu.org/)
+- [swarm-checkin.yude.jp.eu.org](https://swarm-checkin.yude.jp.eu.org)
 
 More services are available on [y2e.org](https://www.y2e.org).
